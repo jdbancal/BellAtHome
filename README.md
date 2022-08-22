@@ -3,7 +3,7 @@ Bell@Home
 
 The aim of this project is to demonstrate an (apparent) Bell inequality violation between two computers by leveraging *measurement dependence*.
 
-In a Bell experiment, two devices are each given a set of questions to answer separately. Comparing the way they answer their respective questions can then provide strong conclusions about the relation existing between the two devices. For instance, if the statistics of their answers violate a so-called [*Bell inequality*](https://arxiv.org/abs/1303.2849), one can conclude that the devices shared entanglement, a genuinely *quantum* resource.
+In a Bell experiment, two devices (generally referred to as Alice and Bob) are each given a set of questions to answer separately. Comparing the way they answer their respective questions can then provide strong conclusions about the relation existing between the two devices. For instance, if the statistics of their answers violate a so-called [*Bell inequality*](https://arxiv.org/abs/1303.2849), one can conclude that the devices shared entanglement, a genuinely *quantum* resource.
 
 But such a conclusion only holds if some basic requirements are met. One such requirement is that the devices should not be able to influence the choice of questions being asked. Failure to satisfy this condition allows devices to create Bell-violating answers while behaving only *classically* [[TSS 2013]](https://arxiv.org/abs/1304.3598).
 
